@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a860f2a2-8200-4122-84ee-fa997ea67814" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/main/Main.java" afterPath="$PROJECT_DIR$/src/main/java/main/Main.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/servlets/AllRequestServlet.java" afterPath="$PROJECT_DIR$/src/main/java/servlets/AllRequestServlet.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -570,7 +568,14 @@
       <option name="project" value="LOCAL" />
       <updated>1508676801795</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="&#10;ready for testing">
+      <created>1508859230972</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1508859230972</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -641,7 +646,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&#10;working version" />
-    <option name="LAST_COMMIT_MESSAGE" value="&#10;working version" />
+    <MESSAGE value="&#10;ready for testing" />
+    <option name="LAST_COMMIT_MESSAGE" value="&#10;ready for testing" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
